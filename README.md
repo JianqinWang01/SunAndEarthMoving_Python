@@ -11,7 +11,7 @@ Planet Orbit was calculated by the following equations:<br/>
 * <b>Outter orbit-Oval:</b><br>a
 <b>X<sup>2</sup>/a<sup>2</sup>+Y<sup>2</sup>/b<sup>2</sup>=1
 ## ScreenShort
-<img src="https://github.com/JianqinWang01/SunAndEarthMoving_Python/blob/master/python_solar.gif" data-canonical-src="https://github.com/JianqinWang01/SunAndEarthMoving_Python/blob/master/python_solar.gif" width="800" height="450" />&nbsp;
+<img src="https://github.com/JianqinWang01/SunAndEarthMoving_Python/blob/master/python_solar.gif" data-canonical-src="https://github.com/JianqinWang01/SunAndEarthMoving_Python/blob/master/python_solar.gif" width="900" height="600" />&nbsp;
 ## App Install requirement
 * Python 3.0+
 * Pyqtgraph
