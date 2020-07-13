@@ -8,10 +8,7 @@ It is based on pyqtgraph package which provide convenient function to draw graph
 Planet Orbit was drawn by the following equations:
 
 ## ScreenShort
-<img src="https://github.com/JianqinWang01/SunAndEarthMoving_Python/blob/master/python_solar.gif" data-canonical-src="https://github.com/JianqinWang01/Inventory-App/blob/master/Images/Screenshot_Home.jpg" width="200" height="350" />&nbsp;<img src="https://github.com/JianqinWang01/Inventory-App/blob/master/Images/Screenshot_PriceReference.jpg" data-canonical-src="https://github.com/JianqinWang01/Inventory-App/blob/master/Images/Screenshot_PriceReference.jpg" width="200" height="350" />&nbsp;
-<img src="https://github.com/JianqinWang01/Inventory-App/blob/master/Images/Screenshot_Search.jpg" data-canonical-src="https://github.com/JianqinWang01/Inventory-App/blob/master/Images/Screenshot_Search.jpg" width="200" height="350" />&nbsp;<img src="https://github.com/JianqinWang01/Inventory-App/blob/master/Images/Screenshot_StockWarning.jpg" data-canonical-src="https://github.com/JianqinWang01/Inventory-App/blob/master/Images/Screenshot_StockWarning.jpg" width="200" height="350" /><br/>
-## FeturedImage
-<img src="https://github.com/JianqinWang01/Inventory-App/blob/master/Images/FeturedImage.png" data-canonical-src="https://github.com/JianqinWang01/Inventory-App/blob/master/Images/FeturedImage.png" width="512" height="250" /><br/>
+<img src="https://github.com/JianqinWang01/SunAndEarthMoving_Python/blob/master/python_solar.gif" data-canonical-src="https://github.com/JianqinWang01/SunAndEarthMoving_Python/blob/master/python_solar.gif" width="1000" height="800" />&nbsp;
 ## App Install requirement
 * Android 6.0+ or Api 23+
 * Voice Search Engine or Google Play Service
