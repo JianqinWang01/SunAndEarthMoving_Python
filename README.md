@@ -5,13 +5,15 @@ This system simulates planets moving around sun along their orbits periodically.
 forced by gravity in Solar System.
 ## Detailed Description
 It is based on pyqtgraph package which provide convenient function to draw graph.
-Planet Orbit was drawn by the following equations:
+Planet Orbit was drawn by the following equations:<br/>
+Inner orbit-Circle:<br>
+
 
 ## ScreenShort
 <img src="https://github.com/JianqinWang01/SunAndEarthMoving_Python/blob/master/python_solar.gif" data-canonical-src="https://github.com/JianqinWang01/SunAndEarthMoving_Python/blob/master/python_solar.gif" width="800" height="450" />&nbsp;
 ## App Install requirement
-* Android 6.0+ or Api 23+
-* Voice Search Engine or Google Play Service
+* Python 3.0+
+* Pyqtgraph
 
 
 ## Credits
