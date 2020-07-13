@@ -6,8 +6,8 @@ forced by gravity in Solar System.
 ## Detailed Description
 It is based on pyqtgraph package which provide convenient function to draw graph.
 Planet Orbit was drawn by the following equations:<br/>
-Inner orbit-Circle:<br>
-
+* <b>Inner orbit-Circle:</b><br>
+a<sup>2</sup>+b<sup>2</sup>=r<sup>2</sup>
 
 ## ScreenShort
 <img src="https://github.com/JianqinWang01/SunAndEarthMoving_Python/blob/master/python_solar.gif" data-canonical-src="https://github.com/JianqinWang01/SunAndEarthMoving_Python/blob/master/python_solar.gif" width="800" height="450" />&nbsp;
