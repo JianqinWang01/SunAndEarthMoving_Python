@@ -14,7 +14,7 @@ Planet Orbit was drawn by the following equations:
 * Voice Search Engine or Google Play Service
 ## How to use it
 <b>.Add and edit category and product</b> &nbsp; &nbsp;           <b>. Search Products</b><br/>
-<img src="https://github.com/JianqinWang01/Inventory-App/blob/master/Images/Home.gif" data-canonical-src="https://github.com/JianqinWang01/SunAndEarthMoving_Python/blob/master/python_solar.gif" width="800" height="1000" />
+<img src="https://github.com/JianqinWang01/Inventory-App/blob/master/Images/Home.gif" data-canonical-src="https://github.com/JianqinWang01/SunAndEarthMoving_Python/blob/master/python_solar.gif" width="800" height="600" />
 <br/>
 
 ## Credits
