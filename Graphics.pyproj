@@ -45,6 +45,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="python_solar.gif" />
     <Content Include="sun.png" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
