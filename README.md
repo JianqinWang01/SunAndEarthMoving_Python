@@ -8,7 +8,7 @@ It is based on pyqtgraph package which provide convenient function to draw graph
 Planet Orbit was drawn by the following equations:
 
 ## ScreenShort
-<img src="https://github.com/JianqinWang01/SunAndEarthMoving_Python/blob/master/python_solar.gif" data-canonical-src="https://github.com/JianqinWang01/SunAndEarthMoving_Python/blob/master/python_solar.gif" width="800" height="500" />&nbsp;
+<img src="https://github.com/JianqinWang01/SunAndEarthMoving_Python/blob/master/python_solar.gif" data-canonical-src="https://github.com/JianqinWang01/SunAndEarthMoving_Python/blob/master/python_solar.gif" width="800" height="450" />&nbsp;
 ## App Install requirement
 * Android 6.0+ or Api 23+
 * Voice Search Engine or Google Play Service
@@ -18,8 +18,7 @@ Planet Orbit was drawn by the following equations:
 * SDK<br/>
   https://github.com/pyqtgraph/pyqtgraph<br/>
 * Resource<br/>
-  https://developer.android.com/              
-   https://stackoverflow.com/
+  https://pngimg.com/download/13449
 ## Pyqtgraph Package Copyright
 ```
 Copyright 2020 Luke Campagnola, University of North Carolina at Chapel Hill
